@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"module": "es2020",
+		"baseUrl": ".",
+		"paths": {
+			"$api": ["./src/routes/api"],
+			"$api/*": ["./src/routes/api/*"],
+			"$lib": ["./src/lib"],
+			"$lib/*": ["./src/lib/*"],
+			"$stores": ["./src/stores"],
+			"$stores/*": ["./src/stores/*"],
+			"$utils": ["./src/utils"],
+			"$utils/*": ["./src/utils/*"],
+			"$data": ["./src/data"],
+			"$data/*": ["./src/data/*"],
+		}
+	},
+	"include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"],
+	"exclude": ["node_modules"]
+}

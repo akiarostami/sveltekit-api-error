@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 780 780" style="enable-background:new 0 0 780 780;" xml:space="preserve">
+<g id="Background">
+	<rect class="st0" width="780" height="780" fill="#363A3E"/>
+</g>
+<g id="Image">
+	<g>
+		<path d="M153.3,212.5h473.3v355H153.3V212.5z" fill-opacity="0" stroke="#43474B" stroke-width="30" stroke-miterlimit="10"/>
+		<path d="M295.3,309.1c0,19.8-16.1,35.9-35.9,35.9c-19.8,0-35.9-16.1-35.9-35.9c0-19.8,16.1-35.9,35.9-35.9
+			C279.3,273.2,295.3,289.3,295.3,309.1z" fill="#43474B"/>
+		<path d="M568.7,507.5H213.3l47.3-101.4l30,44.2l100.2-152.3l71.8,107.7l33.9-37.1L568.7,507.5z" fill="#43474B"/>
+	</g>
+</g>
+</svg>
