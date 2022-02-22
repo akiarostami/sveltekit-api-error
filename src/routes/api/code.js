@@ -2,7 +2,7 @@ export async function post({ request }) {
 	try {
 		const { email } = await request.json();
 
-		const code = (Math.floor(Math.random() * 899999) + 100000).toString();
+		const code = import.meta.env.VITE_TEST;
 
 		if (email !== 'test@domain.com')
 			return {
